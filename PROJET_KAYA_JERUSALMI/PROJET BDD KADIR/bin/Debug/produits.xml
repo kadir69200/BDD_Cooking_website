@@ -1,0 +1,14 @@
+﻿<Commande>
+    <Produit>
+        <Nom>citron</Nom>
+        <Fournisseur>Fournisseur1</Fournisseur>
+        <Quantité>10</Quantité>
+        <Unité>kilo</Unité>
+    </Produit>
+    <Produit>
+        <Nom>salade</Nom>
+        <Fournisseur>Fournisseur1</Fournisseur>
+        <Quantité>40</Quantité>
+        <Unité>kilo</Unité>
+    </Produit>
+</Commande>
